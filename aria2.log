@@ -1,0 +1,20 @@
+2018-08-24 16:59:57.273602 [ERROR] [AbstractCommand.cc:378] CUID#81 - Download aborted. URI=http://dlied5.myapp.com/myapp/100692648/pao/2017_com.tencent.pao_h100_1.0.58.0_a9ed42.apk
+Exception: [AbstractCommand.cc:340] errorCode=2 Timeout.
+2018-08-24 17:00:00.245908 [ERROR] [AbstractCommand.cc:378] CUID#78 - Download aborted. URI=http://dlied5.myapp.com/myapp/100692648/pao/2017_com.tencent.pao_h100_1.0.58.0_a9ed42.apk
+Exception: [SocketCore.cc:874] errorCode=1 Failed to receive data, cause: An existing connection was forcibly closed by the remote host.
+
+2018-08-24 17:00:00.308038 [ERROR] [AbstractCommand.cc:378] CUID#79 - Download aborted. URI=http://dlied5.myapp.com/myapp/100692648/pao/2017_com.tencent.pao_h100_1.0.58.0_a9ed42.apk
+Exception: [SocketCore.cc:874] errorCode=1 Failed to receive data, cause: An existing connection was forcibly closed by the remote host.
+
+2018-08-24 17:05:00.247047 [ERROR] [AbstractCommand.cc:378] CUID#80 - Download aborted. URI=http://dlied5.myapp.com/myapp/100692648/pao/2017_com.tencent.pao_h100_1.0.58.0_a9ed42.apk
+Exception: [SocketCore.cc:874] errorCode=1 Failed to receive data, cause: An existing connection was forcibly closed by the remote host.
+
+2018-08-24 17:10:00.233179 [ERROR] [AbstractCommand.cc:378] CUID#82 - Download aborted. URI=http://dlied5.myapp.com/myapp/100692648/pao/2017_com.tencent.pao_h100_1.0.58.0_a9ed42.apk
+Exception: [SocketCore.cc:874] errorCode=1 Failed to receive data, cause: An existing connection was forcibly closed by the remote host.
+
+2018-08-25 17:22:47.656570 [ERROR] [AbstractCommand.cc:351] CUID#25 - Download aborted. URI=http://a3.res.meizu.com/source/4060/70b297b237ba4a69b550c7fb9ba4598e?auth_key=1535231989-0-0-8a4da01f641130548a74f5a2b85f1d46&fname=com.Qunar_170
+Exception: [AbstractCommand.cc:351] errorCode=22 URI=http://a3.res.meizu.com/source/4060/70b297b237ba4a69b550c7fb9ba4598e?auth_key=1535231989-0-0-8a4da01f641130548a74f5a2b85f1d46&fname=com.Qunar_170
+  -> [HttpSkipResponseCommand.cc:240] errorCode=22 The response status is not successful. status=403
+2018-08-25 17:23:04.768089 [ERROR] [AbstractCommand.cc:351] CUID#27 - Download aborted. URI=http://a3.res.meizu.com/source/4060/70b297b237ba4a69b550c7fb9ba4598e?auth_key=1535231989-0-0-8a4da01f641130548a74f5a2b85f1d46&fname=com.Qunar_170
+Exception: [AbstractCommand.cc:351] errorCode=22 URI=http://a3.res.meizu.com/source/4060/70b297b237ba4a69b550c7fb9ba4598e?auth_key=1535231989-0-0-8a4da01f641130548a74f5a2b85f1d46&fname=com.Qunar_170
+  -> [HttpSkipResponseCommand.cc:240] errorCode=22 The response status is not successful. status=403
